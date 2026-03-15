@@ -3,3 +3,4 @@
 zmien
 zmiana do konfliktu
 sprzeczne dane
+bedzie konflikt
